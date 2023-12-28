@@ -1,7 +1,7 @@
 Oblate
 ===
 
-Oblate is a wrapper for errors that conceals error details that need not be shown to the user, without losing any error information.
+Oblate serves as a wrapper for errors, concealing details unnecessary for user presentation while simultaneously preserving comprehensive error information.
 
 ## Usage
 
